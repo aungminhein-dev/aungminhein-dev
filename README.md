@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pico SBS](https://github.com/picoinno/erppos_v2)
 
-- 👨‍💻 All of my projects are available at [https://aungminhein-dev.github.io/me/](https://aungminhein-dev.github.io/me/)
+- 👨‍💻 All of my projects are available at [https://github.com/aungminhein-dev?tab=repositories](My Account)
 
 - 📫 How to reach me **https://www.facebook.com/profile.php?id=100054266140034**
 
