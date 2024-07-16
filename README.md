@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Min Hein</h1>
-<h3 align="center">A hard-work developer</h3>
+<h3 align="center">A hard-working developer</h3>
 
 - 🔭 I’m currently working on [Pico SBS](https://github.com/picoinno/erppos_v2)
 
